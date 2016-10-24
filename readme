@@ -1,0 +1,1 @@
+gcc -o my_pipe shell_prog.c parse_string.c new_pipe.c shell_builtin.c -g
